@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java Backend developer @ Infosys<br>Actively looking for new Roles and Opportunities<br>Servig notice period
+Java Backend developer @ Infosys<br>Actively looking for new Roles and Opportunities<br>Serving notice period
 
 
 ## 🌐 Socials:
