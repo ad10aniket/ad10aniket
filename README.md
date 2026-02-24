@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java Backend developer @ Infosys<br>Actively looking for new Roles and Opportunities<br>Serving notice period
+Java Backend developer @ Infosys<br>Actively looking for new Roles and Opportunities<br>Serving notice period - LWD : 15th MAY 
 
 
 ## 🌐 Socials:
